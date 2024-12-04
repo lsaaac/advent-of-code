@@ -5,7 +5,7 @@ list_level = []
 
 results_safe = 0
 
-with open("../input.txt") as file:
+with open("../test.txt") as file:
     for line in file:
         line = line.split()
         line = [int(x) for x in line]  # list comprehension.
