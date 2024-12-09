@@ -1,7 +1,6 @@
 # https://adventofcode.com/2024/day/3
 
 
-
 def read_file(file_name):
     file_path = f"../{file_name}" 
     file_output = []
@@ -41,6 +40,8 @@ def find_is_int(tested_list, variable_index, potential_length):
 
 output = list(read_file("input.txt"))
 
+counted = 0
+uncounted = 0
 valid_int_pairs = []
 potential_string_information = {}
 for line in output:
@@ -55,6 +56,17 @@ for line in output:
 
     # Find integer 1
     for starting_position in potential_string_starting_positions:
+        do_position = line.rfind("do()", 0, starting_position)
+        dont_position = line.rfind("don't()", 0, starting_position)
+
+
+        if dont_position > do_position:
+            counted += 1
+            continue
+        else:
+            uncounted += 1
+            pass
+
         valid_int_pair = []
         potential_string_dictionary = {"start": starting_position}
 
@@ -70,13 +82,18 @@ for line in output:
 
 
         check_ints = (potential_string_dictionary["length_int_1"] and potential_string_dictionary["length_int_2"]) > 0 
-        check_strings = potential_string_dictionary["comma_present"] and potential_string_dictionary["closing_bracket"] == True
+        check_strings = (potential_string_dictionary["comma_present"] and potential_string_dictionary["closing_bracket"]) == True
 
         valid_string = check_ints and check_strings
 
-#        print(potential_string_dictionary, valid_string)
+#        print(f"DO: {do_position}")
+#        print(f"DONT: {dont_position}")
 
-        if valid_string:
+        if valid_string == True:
+            print("VALID STRING")
+            print(potential_string_dictionary, valid_string)
+            print(f"check_ints: {check_ints}, check_strings: {check_strings}, valid_string: {valid_string}")
+            print(line[int(potential_string_dictionary["start"]): int(potential_string_dictionary["start"])+12])
             int_1_start_position = potential_string_dictionary["start"] + 4
             int_2_start_position =  potential_string_dictionary["start"] + 4 +  potential_string_dictionary["length_int_1"] + 1
 
@@ -84,6 +101,9 @@ for line in output:
             valid_int_pair.append(int(line[int_2_start_position: int_2_start_position + potential_string_dictionary["length_int_2"]]))
 
             valid_int_pairs.append(valid_int_pair)
+            print(valid_int_pair)
+        else:
+            continue
 
 #print("FINAL LIST")
 #print(valid_int_pairs)
@@ -93,6 +113,6 @@ total = 0
 for int_pair in valid_int_pairs:
     total += int_pair[0] * int_pair[1]
 
+print(f"COUNTED: {counted} SKIPPED: {uncounted}")
 print("TOTAL")
 print(total)
-

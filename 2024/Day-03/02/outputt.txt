@@ -1,0 +1,1 @@
+Sum when adding the result of all enabled mul() functions: 113965544

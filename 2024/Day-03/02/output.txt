@@ -1,0 +1,2337 @@
+VALID STRING
+{'start': 4, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(437,864)
+[437, 864]
+VALID STRING
+{'start': 17, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(880,907)
+[880, 907]
+VALID STRING
+{'start': 49, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(215,270)
+[215, 270]
+VALID STRING
+{'start': 70, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(737,510)
+[737, 510]
+VALID STRING
+{'start': 91, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(634,344)
+[634, 344]
+VALID STRING
+{'start': 107, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(528,832)
+[528, 832]
+VALID STRING
+{'start': 123, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(514,817)
+[514, 817]
+VALID STRING
+{'start': 169, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(270,137)
+[270, 137]
+VALID STRING
+{'start': 183, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(787,669)
+[787, 669]
+VALID STRING
+{'start': 208, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(896,940)
+[896, 940]
+VALID STRING
+{'start': 239, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(536,622)
+[536, 622]
+VALID STRING
+{'start': 425, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(448,254)
+[448, 254]
+VALID STRING
+{'start': 733, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(935,409)
+[935, 409]
+VALID STRING
+{'start': 745, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(356,457)
+[356, 457]
+VALID STRING
+{'start': 759, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(445,30)?
+[445, 30]
+VALID STRING
+{'start': 785, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(568,491)
+[568, 491]
+VALID STRING
+{'start': 821, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(327,654)
+[327, 654]
+VALID STRING
+{'start': 1003, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(641,212)
+[641, 212]
+VALID STRING
+{'start': 1323, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(926,267)
+[926, 267]
+VALID STRING
+{'start': 1350, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(750,244)
+[750, 244]
+VALID STRING
+{'start': 1399, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(523,581)
+[523, 581]
+VALID STRING
+{'start': 1417, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(94,990)!
+[94, 990]
+VALID STRING
+{'start': 1446, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(174,631)
+[174, 631]
+VALID STRING
+{'start': 1473, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(57,234)?
+[57, 234]
+VALID STRING
+{'start': 1486, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(943,865)
+[943, 865]
+VALID STRING
+{'start': 1522, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(633,471)
+[633, 471]
+VALID STRING
+{'start': 1551, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(232,415)
+[232, 415]
+VALID STRING
+{'start': 1573, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(126,82)w
+[126, 82]
+VALID STRING
+{'start': 1601, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(687,55){
+[687, 55]
+VALID STRING
+{'start': 1628, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(674,305)
+[674, 305]
+VALID STRING
+{'start': 1650, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(261,413)
+[261, 413]
+VALID STRING
+{'start': 1686, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(930,454)
+[930, 454]
+VALID STRING
+{'start': 1730, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(590,349)
+[590, 349]
+VALID STRING
+{'start': 1746, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(688,279)
+[688, 279]
+VALID STRING
+{'start': 1766, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(86,495);
+[86, 495]
+VALID STRING
+{'start': 1778, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(417,700)
+[417, 700]
+VALID STRING
+{'start': 1810, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(383,608)
+[383, 608]
+VALID STRING
+{'start': 1847, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(736,637)
+[736, 637]
+VALID STRING
+{'start': 1889, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(440,969)
+[440, 969]
+VALID STRING
+{'start': 1904, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(412,588)
+[412, 588]
+VALID STRING
+{'start': 1977, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(312,134)
+[312, 134]
+VALID STRING
+{'start': 1999, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(400,368)
+[400, 368]
+VALID STRING
+{'start': 2012, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(91,772)^
+[91, 772]
+VALID STRING
+{'start': 2024, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(108,930)
+[108, 930]
+VALID STRING
+{'start': 2038, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(370,824)
+[370, 824]
+VALID STRING
+{'start': 2059, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(408,938)
+[408, 938]
+VALID STRING
+{'start': 2082, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(618,424)
+[618, 424]
+VALID STRING
+{'start': 2095, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(384,342)
+[384, 342]
+VALID STRING
+{'start': 2141, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(158,114)
+[158, 114]
+VALID STRING
+{'start': 2183, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(727,849)
+[727, 849]
+VALID STRING
+{'start': 2201, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(358,870)
+[358, 870]
+VALID STRING
+{'start': 2213, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(918,280)
+[918, 280]
+VALID STRING
+{'start': 2227, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(434,803)
+[434, 803]
+VALID STRING
+{'start': 2258, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(737,295)
+[737, 295]
+VALID STRING
+{'start': 2282, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(971,370)
+[971, 370]
+VALID STRING
+{'start': 2308, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(134,354)
+[134, 354]
+VALID STRING
+{'start': 2330, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(995,35):
+[995, 35]
+VALID STRING
+{'start': 2355, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(85,68)('
+[85, 68]
+VALID STRING
+{'start': 2370, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(108,927)
+[108, 927]
+VALID STRING
+{'start': 2396, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(268,521)
+[268, 521]
+VALID STRING
+{'start': 2419, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(473,558)
+[473, 558]
+VALID STRING
+{'start': 2450, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(383,864)
+[383, 864]
+VALID STRING
+{'start': 3042, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(900,993)
+[900, 993]
+VALID STRING
+{'start': 3054, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(613,135)
+[613, 135]
+VALID STRING
+{'start': 3089, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(375,245)
+[375, 245]
+VALID STRING
+{'start': 3120, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(487,896)
+[487, 896]
+VALID STRING
+{'start': 3135, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(807,261)
+[807, 261]
+VALID STRING
+{'start': 3197, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(800,203)
+[800, 203]
+VALID STRING
+{'start': 3209, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(921,126)
+[921, 126]
+VALID STRING
+{'start': 3228, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(668,781)
+[668, 781]
+VALID STRING
+{'start': 3243, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(900,757)
+[900, 757]
+VALID STRING
+{'start': 3259, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(710,725)
+[710, 725]
+VALID STRING
+{'start': 3295, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(121,934)
+[121, 934]
+VALID STRING
+{'start': 3320, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 1, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(551,3)({
+[551, 3]
+VALID STRING
+{'start': 3342, 'length_int_1': 1, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(7,711)(]
+[7, 711]
+VALID STRING
+{'start': 3370, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(392,449)
+[392, 449]
+VALID STRING
+{'start': 5, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(428,73)(
+[428, 73]
+VALID STRING
+{'start': 23, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(64,592)w
+[64, 592]
+VALID STRING
+{'start': 39, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(87,558)!
+[87, 558]
+VALID STRING
+{'start': 70, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(824,660)
+[824, 660]
+VALID STRING
+{'start': 97, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(640,76){
+[640, 76]
+VALID STRING
+{'start': 109, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(775,707)
+[775, 707]
+VALID STRING
+{'start': 131, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(100,878)
+[100, 878]
+VALID STRING
+{'start': 158, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(966,147)
+[966, 147]
+VALID STRING
+{'start': 1267, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(506,436)
+[506, 436]
+VALID STRING
+{'start': 1286, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(308,28)?
+[308, 28]
+VALID STRING
+{'start': 1324, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(57,512)$
+[57, 512]
+VALID STRING
+{'start': 1338, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(874,349)
+[874, 349]
+VALID STRING
+{'start': 1358, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(128,288)
+[128, 288]
+VALID STRING
+{'start': 1382, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(117,644)
+[117, 644]
+VALID STRING
+{'start': 1424, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(701,276)
+[701, 276]
+VALID STRING
+{'start': 1455, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(784,997)
+[784, 997]
+VALID STRING
+{'start': 1492, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(883,710)
+[883, 710]
+VALID STRING
+{'start': 1511, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(45,149)(
+[45, 149]
+VALID STRING
+{'start': 1557, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(296,703)
+[296, 703]
+VALID STRING
+{'start': 1571, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(881,162)
+[881, 162]
+VALID STRING
+{'start': 1591, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(293,304)
+[293, 304]
+VALID STRING
+{'start': 1606, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(443,960)
+[443, 960]
+VALID STRING
+{'start': 1639, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(739,318)
+[739, 318]
+VALID STRING
+{'start': 1667, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(281,625)
+[281, 625]
+VALID STRING
+{'start': 1694, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(88,646)%
+[88, 646]
+VALID STRING
+{'start': 1723, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(885,753)
+[885, 753]
+VALID STRING
+{'start': 1751, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(625,409)
+[625, 409]
+VALID STRING
+{'start': 1764, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(201,618)
+[201, 618]
+VALID STRING
+{'start': 1831, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(942,583)
+[942, 583]
+VALID STRING
+{'start': 1854, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(876,685)
+[876, 685]
+VALID STRING
+{'start': 1872, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(103,616)
+[103, 616]
+VALID STRING
+{'start': 1904, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(867,558)
+[867, 558]
+VALID STRING
+{'start': 1930, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(955,743)
+[955, 743]
+VALID STRING
+{'start': 1984, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(488,404)
+[488, 404]
+VALID STRING
+{'start': 1997, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(573,892)
+[573, 892]
+VALID STRING
+{'start': 2027, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(344,334)
+[344, 334]
+VALID STRING
+{'start': 2051, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(868,909)
+[868, 909]
+VALID STRING
+{'start': 2066, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(729,810)
+[729, 810]
+VALID STRING
+{'start': 2078, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(630,215)
+[630, 215]
+VALID STRING
+{'start': 2114, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(229,873)
+[229, 873]
+VALID STRING
+{'start': 2145, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(248,481)
+[248, 481]
+VALID STRING
+{'start': 2178, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(639,438)
+[639, 438]
+VALID STRING
+{'start': 2199, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(563,361)
+[563, 361]
+VALID STRING
+{'start': 2216, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(148,895)
+[148, 895]
+VALID STRING
+{'start': 2251, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(703,618)
+[703, 618]
+VALID STRING
+{'start': 2280, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(383,639)
+[383, 639]
+VALID STRING
+{'start': 2294, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(164,723)
+[164, 723]
+VALID STRING
+{'start': 2340, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(45,490))
+[45, 490]
+VALID STRING
+{'start': 2370, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(661,87) 
+[661, 87]
+VALID STRING
+{'start': 2391, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(854,581)
+[854, 581]
+VALID STRING
+{'start': 2416, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(619,575)
+[619, 575]
+VALID STRING
+{'start': 2434, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(712,573)
+[712, 573]
+VALID STRING
+{'start': 2464, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(604,893)
+[604, 893]
+VALID STRING
+{'start': 2476, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(227,185)
+[227, 185]
+VALID STRING
+{'start': 2506, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(805,458)
+[805, 458]
+VALID STRING
+{'start': 2551, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(242,122)
+[242, 122]
+VALID STRING
+{'start': 2563, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(745,329)
+[745, 329]
+VALID STRING
+{'start': 2589, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(256,115)
+[256, 115]
+VALID STRING
+{'start': 2640, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(958,717)
+[958, 717]
+VALID STRING
+{'start': 2657, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(616,882)
+[616, 882]
+VALID STRING
+{'start': 2669, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(199,18)/
+[199, 18]
+VALID STRING
+{'start': 2691, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(23,351)(
+[23, 351]
+VALID STRING
+{'start': 2705, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(615,742)
+[615, 742]
+VALID STRING
+{'start': 2721, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(590,124)
+[590, 124]
+VALID STRING
+{'start': 2733, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(985,821)
+[985, 821]
+VALID STRING
+{'start': 2755, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(487,459)
+[487, 459]
+VALID STRING
+{'start': 2768, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(319,344)
+[319, 344]
+VALID STRING
+{'start': 2800, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(305,231)
+[305, 231]
+VALID STRING
+{'start': 2832, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(232,514)
+[232, 514]
+VALID STRING
+{'start': 2857, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(401,476)
+[401, 476]
+VALID STRING
+{'start': 2870, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(485,814)
+[485, 814]
+VALID STRING
+{'start': 2884, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(490,69)w
+[490, 69]
+VALID STRING
+{'start': 2934, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(428,81)w
+[428, 81]
+VALID STRING
+{'start': 2993, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(587,14)%
+[587, 14]
+VALID STRING
+{'start': 3026, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(66,344)#
+[66, 344]
+VALID STRING
+{'start': 3060, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(690,739)
+[690, 739]
+VALID STRING
+{'start': 3073, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(502,75)}
+[502, 75]
+VALID STRING
+{'start': 3124, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(550,732)
+[550, 732]
+VALID STRING
+{'start': 24, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(533,251)
+[533, 251]
+VALID STRING
+{'start': 37, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(226,855)
+[226, 855]
+VALID STRING
+{'start': 50, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(295,649)
+[295, 649]
+VALID STRING
+{'start': 75, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(737,515)
+[737, 515]
+VALID STRING
+{'start': 100, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(751,898)
+[751, 898]
+VALID STRING
+{'start': 139, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(865,649)
+[865, 649]
+VALID STRING
+{'start': 188, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(874,991)
+[874, 991]
+VALID STRING
+{'start': 221, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(828,195)
+[828, 195]
+VALID STRING
+{'start': 234, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(739,482)
+[739, 482]
+VALID STRING
+{'start': 258, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(521,901)
+[521, 901]
+VALID STRING
+{'start': 287, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(112,628)
+[112, 628]
+VALID STRING
+{'start': 310, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(851,646)
+[851, 646]
+VALID STRING
+{'start': 330, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(842,55)%
+[842, 55]
+VALID STRING
+{'start': 348, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(164,534)
+[164, 534]
+VALID STRING
+{'start': 377, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 1, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(145,6)]*
+[145, 6]
+VALID STRING
+{'start': 400, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(459,695)
+[459, 695]
+VALID STRING
+{'start': 451, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(527,796)
+[527, 796]
+VALID STRING
+{'start': 473, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(183,596)
+[183, 596]
+VALID STRING
+{'start': 486, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(837,933)
+[837, 933]
+VALID STRING
+{'start': 498, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(693,684)
+[693, 684]
+VALID STRING
+{'start': 526, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(379,67)s
+[379, 67]
+VALID STRING
+{'start': 559, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(120,112)
+[120, 112]
+VALID STRING
+{'start': 607, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(661,256)
+[661, 256]
+VALID STRING
+{'start': 626, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(894,631)
+[894, 631]
+VALID STRING
+{'start': 650, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(111,135)
+[111, 135]
+VALID STRING
+{'start': 692, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(337,371)
+[337, 371]
+VALID STRING
+{'start': 1021, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(453,440)
+[453, 440]
+VALID STRING
+{'start': 1036, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(977,343)
+[977, 343]
+VALID STRING
+{'start': 1057, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(62,672)<
+[62, 672]
+VALID STRING
+{'start': 1076, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(971,495)
+[971, 495]
+VALID STRING
+{'start': 1095, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(98,733);
+[98, 733]
+VALID STRING
+{'start': 1113, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(815,13)w
+[815, 13]
+VALID STRING
+{'start': 1133, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(12,514)!
+[12, 514]
+VALID STRING
+{'start': 1158, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(704,581)
+[704, 581]
+VALID STRING
+{'start': 1171, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(656,388)
+[656, 388]
+VALID STRING
+{'start': 1183, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(968,264)
+[968, 264]
+VALID STRING
+{'start': 1217, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(639,135)
+[639, 135]
+VALID STRING
+{'start': 1236, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(554,238)
+[554, 238]
+VALID STRING
+{'start': 1254, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(549,330)
+[549, 330]
+VALID STRING
+{'start': 1290, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(613,35)(
+[613, 35]
+VALID STRING
+{'start': 1307, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(300,593)
+[300, 593]
+VALID STRING
+{'start': 2137, 'length_int_1': 1, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(8,16)mul
+[8, 16]
+VALID STRING
+{'start': 2146, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(329,708)
+[329, 708]
+VALID STRING
+{'start': 2175, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(334,310)
+[334, 310]
+VALID STRING
+{'start': 2194, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(213,492)
+[213, 492]
+VALID STRING
+{'start': 2207, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(172,234)
+[172, 234]
+VALID STRING
+{'start': 2226, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(533,937)
+[533, 937]
+VALID STRING
+{'start': 2238, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(729,811)
+[729, 811]
+VALID STRING
+{'start': 2251, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(176,287)
+[176, 287]
+VALID STRING
+{'start': 2282, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(657,961)
+[657, 961]
+VALID STRING
+{'start': 2296, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(978,585)
+[978, 585]
+VALID STRING
+{'start': 2313, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(815,133)
+[815, 133]
+VALID STRING
+{'start': 2350, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(330,156)
+[330, 156]
+VALID STRING
+{'start': 2395, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(995,394)
+[995, 394]
+VALID STRING
+{'start': 2420, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(146,412)
+[146, 412]
+VALID STRING
+{'start': 2442, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(74,137)(
+[74, 137]
+VALID STRING
+{'start': 2487, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(393,823)
+[393, 823]
+VALID STRING
+{'start': 2501, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(728,574)
+[728, 574]
+VALID STRING
+{'start': 2516, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(164,411)
+[164, 411]
+VALID STRING
+{'start': 2572, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(667,120)
+[667, 120]
+VALID STRING
+{'start': 2622, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(874,315)
+[874, 315]
+VALID STRING
+{'start': 2908, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(878,596)
+[878, 596]
+VALID STRING
+{'start': 2921, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(29,225)&
+[29, 225]
+VALID STRING
+{'start': 2964, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(257,352)
+[257, 352]
+VALID STRING
+{'start': 3001, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(169,577)
+[169, 577]
+VALID STRING
+{'start': 20, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(603,277)
+[603, 277]
+VALID STRING
+{'start': 46, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(35,478)m
+[35, 478]
+VALID STRING
+{'start': 97, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(435,668)
+[435, 668]
+VALID STRING
+{'start': 158, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(124,375)
+[124, 375]
+VALID STRING
+{'start': 456, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(557,586)
+[557, 586]
+VALID STRING
+{'start': 489, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(290,50)s
+[290, 50]
+VALID STRING
+{'start': 526, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(711,368)
+[711, 368]
+VALID STRING
+{'start': 601, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(545,361)
+[545, 361]
+VALID STRING
+{'start': 647, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(338,61)+
+[338, 61]
+VALID STRING
+{'start': 669, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(233,835)
+[233, 835]
+VALID STRING
+{'start': 707, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(345,942)
+[345, 942]
+VALID STRING
+{'start': 731, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(169,778)
+[169, 778]
+VALID STRING
+{'start': 759, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(41,863)w
+[41, 863]
+VALID STRING
+{'start': 775, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(392,367)
+[392, 367]
+VALID STRING
+{'start': 798, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(27,423)-
+[27, 423]
+VALID STRING
+{'start': 811, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(939,220)
+[939, 220]
+VALID STRING
+{'start': 837, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(808,712)
+[808, 712]
+VALID STRING
+{'start': 852, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(276,164)
+[276, 164]
+VALID STRING
+{'start': 864, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(142,793)
+[142, 793]
+VALID STRING
+{'start': 900, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(97,673)+
+[97, 673]
+VALID STRING
+{'start': 936, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(828,37)+
+[828, 37]
+VALID STRING
+{'start': 953, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(560,950)
+[560, 950]
+VALID STRING
+{'start': 984, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(202,967)
+[202, 967]
+VALID STRING
+{'start': 1017, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(255,593)
+[255, 593]
+VALID STRING
+{'start': 1069, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(835,370)
+[835, 370]
+VALID STRING
+{'start': 1085, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(116,69)m
+[116, 69]
+VALID STRING
+{'start': 1096, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(731,20)'
+[731, 20]
+VALID STRING
+{'start': 1120, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(656,120)
+[656, 120]
+VALID STRING
+{'start': 1148, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(760,137)
+[760, 137]
+VALID STRING
+{'start': 1192, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(536,801)
+[536, 801]
+VALID STRING
+{'start': 1226, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(402,84)~
+[402, 84]
+VALID STRING
+{'start': 1240, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(299,585)
+[299, 585]
+VALID STRING
+{'start': 1257, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(137,876)
+[137, 876]
+VALID STRING
+{'start': 1285, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(139,249)
+[139, 249]
+VALID STRING
+{'start': 1301, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(367,25)/
+[367, 25]
+VALID STRING
+{'start': 1319, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(392,209)
+[392, 209]
+VALID STRING
+{'start': 1368, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(47,151)&
+[47, 151]
+VALID STRING
+{'start': 2792, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(921,135)
+[921, 135]
+VALID STRING
+{'start': 2816, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(75,976)}
+[75, 976]
+VALID STRING
+{'start': 2837, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(215,161)
+[215, 161]
+VALID STRING
+{'start': 2871, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(825,859)
+[825, 859]
+VALID STRING
+{'start': 2892, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(491,748)
+[491, 748]
+VALID STRING
+{'start': 2908, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(404,634)
+[404, 634]
+VALID STRING
+{'start': 2946, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(681,804)
+[681, 804]
+VALID STRING
+{'start': 2963, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(645,786)
+[645, 786]
+VALID STRING
+{'start': 3014, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(457,855)
+[457, 855]
+VALID STRING
+{'start': 3045, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(479,443)
+[479, 443]
+VALID STRING
+{'start': 3071, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(29,976)-
+[29, 976]
+VALID STRING
+{'start': 3092, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(274,18)%
+[274, 18]
+VALID STRING
+{'start': 3108, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(893,678)
+[893, 678]
+VALID STRING
+{'start': 3137, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(638,687)
+[638, 687]
+VALID STRING
+{'start': 3173, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(23,723)'
+[23, 723]
+VALID STRING
+{'start': 3206, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(976,72)@
+[976, 72]
+VALID STRING
+{'start': 3237, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(47,803)(
+[47, 803]
+VALID STRING
+{'start': 3256, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(145,548)
+[145, 548]
+VALID STRING
+{'start': 3295, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(373,284)
+[373, 284]
+VALID STRING
+{'start': 3338, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(910,263)
+[910, 263]
+VALID STRING
+{'start': 3358, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(99,989)
+[99, 989]
+VALID STRING
+{'start': 1, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(134,916)
+[134, 916]
+VALID STRING
+{'start': 26, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(414,211)
+[414, 211]
+VALID STRING
+{'start': 74, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(123,66)@
+[123, 66]
+VALID STRING
+{'start': 111, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(318,994)
+[318, 994]
+VALID STRING
+{'start': 131, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(282,948)
+[282, 948]
+VALID STRING
+{'start': 204, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(478,188)
+[478, 188]
+VALID STRING
+{'start': 223, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(162,677)
+[162, 677]
+VALID STRING
+{'start': 257, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(919,612)
+[919, 612]
+VALID STRING
+{'start': 296, 'length_int_1': 1, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(9,232) #
+[9, 232]
+VALID STRING
+{'start': 313, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(413,460)
+[413, 460]
+VALID STRING
+{'start': 327, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(254,330)
+[254, 330]
+VALID STRING
+{'start': 343, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(16,657)<
+[16, 657]
+VALID STRING
+{'start': 371, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(150,998)
+[150, 998]
+VALID STRING
+{'start': 384, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(290,179)
+[290, 179]
+VALID STRING
+{'start': 399, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(607,707)
+[607, 707]
+VALID STRING
+{'start': 441, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(795,112)
+[795, 112]
+VALID STRING
+{'start': 453, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(383,996)
+[383, 996]
+VALID STRING
+{'start': 491, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(352,290)
+[352, 290]
+VALID STRING
+{'start': 516, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(402,455)
+[402, 455]
+VALID STRING
+{'start': 529, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(159,801)
+[159, 801]
+VALID STRING
+{'start': 550, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(890,162)
+[890, 162]
+VALID STRING
+{'start': 603, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(91,452)[
+[91, 452]
+VALID STRING
+{'start': 654, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(412,292)
+[412, 292]
+VALID STRING
+{'start': 692, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(943,547)
+[943, 547]
+VALID STRING
+{'start': 715, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(820,501)
+[820, 501]
+VALID STRING
+{'start': 756, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(331,67);
+[331, 67]
+VALID STRING
+{'start': 771, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(168,191)
+[168, 191]
+VALID STRING
+{'start': 807, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(384,321)
+[384, 321]
+VALID STRING
+{'start': 842, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(365,727)
+[365, 727]
+VALID STRING
+{'start': 854, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(349,706)
+[349, 706]
+VALID STRING
+{'start': 875, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(528,940)
+[528, 940]
+VALID STRING
+{'start': 913, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(85,882)[
+[85, 882]
+VALID STRING
+{'start': 936, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(273,409)
+[273, 409]
+VALID STRING
+{'start': 949, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(964,434)
+[964, 434]
+VALID STRING
+{'start': 982, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(914,214)
+[914, 214]
+VALID STRING
+{'start': 996, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(708,958)
+[708, 958]
+VALID STRING
+{'start': 1014, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(106,731)
+[106, 731]
+VALID STRING
+{'start': 1068, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(487,915)
+[487, 915]
+VALID STRING
+{'start': 1098, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(319,884)
+[319, 884]
+VALID STRING
+{'start': 1136, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(754,857)
+[754, 857]
+VALID STRING
+{'start': 1164, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(651,362)
+[651, 362]
+VALID STRING
+{'start': 1189, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(399,158)
+[399, 158]
+VALID STRING
+{'start': 1210, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(964,753)
+[964, 753]
+VALID STRING
+{'start': 1244, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(525,209)
+[525, 209]
+VALID STRING
+{'start': 1262, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(869,719)
+[869, 719]
+VALID STRING
+{'start': 1283, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(207,721)
+[207, 721]
+VALID STRING
+{'start': 1318, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(107,805)
+[107, 805]
+VALID STRING
+{'start': 1345, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(375,736)
+[375, 736]
+VALID STRING
+{'start': 1357, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(73,81)-$
+[73, 81]
+VALID STRING
+{'start': 1382, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(588,899)
+[588, 899]
+VALID STRING
+{'start': 1400, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(902,680)
+[902, 680]
+VALID STRING
+{'start': 1418, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(715,138)
+[715, 138]
+VALID STRING
+{'start': 1439, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(875,81)]
+[875, 81]
+VALID STRING
+{'start': 1465, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(669,19);
+[669, 19]
+VALID STRING
+{'start': 1490, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(90,643)]
+[90, 643]
+VALID STRING
+{'start': 1502, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(969,823)
+[969, 823]
+VALID STRING
+{'start': 1546, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(435,179)
+[435, 179]
+VALID STRING
+{'start': 1611, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(855,799)
+[855, 799]
+VALID STRING
+{'start': 1898, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(252,327)
+[252, 327]
+VALID STRING
+{'start': 1910, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(733,191)
+[733, 191]
+VALID STRING
+{'start': 1937, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(575,854)
+[575, 854]
+VALID STRING
+{'start': 1964, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(710,364)
+[710, 364]
+VALID STRING
+{'start': 2001, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(859,814)
+[859, 814]
+VALID STRING
+{'start': 2024, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(173,667)
+[173, 667]
+VALID STRING
+{'start': 2042, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(955,516)
+[955, 516]
+VALID STRING
+{'start': 2061, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(765,740)
+[765, 740]
+VALID STRING
+{'start': 2306, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(945,626)
+[945, 626]
+VALID STRING
+{'start': 2359, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(268,76)/
+[268, 76]
+VALID STRING
+{'start': 2395, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(936,336)
+[936, 336]
+VALID STRING
+{'start': 2409, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(958,345)
+[958, 345]
+VALID STRING
+{'start': 2428, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(548,108)
+[548, 108]
+VALID STRING
+{'start': 2441, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(951,331)
+[951, 331]
+VALID STRING
+{'start': 2466, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(843,813)
+[843, 813]
+VALID STRING
+{'start': 2498, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(594,381)
+[594, 381]
+VALID STRING
+{'start': 2542, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(765,515)
+[765, 515]
+VALID STRING
+{'start': 2579, 'length_int_1': 1, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(4,236)]%
+[4, 236]
+VALID STRING
+{'start': 2633, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(430,162)
+[430, 162]
+VALID STRING
+{'start': 2645, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(54,147)%
+[54, 147]
+VALID STRING
+{'start': 2670, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(823,311)
+[823, 311]
+VALID STRING
+{'start': 2682, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(882,70)m
+[882, 70]
+VALID STRING
+{'start': 2693, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(869,503)
+[869, 503]
+VALID STRING
+{'start': 2720, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(383,271)
+[383, 271]
+VALID STRING
+{'start': 2782, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(867,166)
+[867, 166]
+VALID STRING
+{'start': 2819, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(191,472)
+[191, 472]
+VALID STRING
+{'start': 2845, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(45,832)-
+[45, 832]
+VALID STRING
+{'start': 2881, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(85,192)&
+[85, 192]
+VALID STRING
+{'start': 2899, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(498,712)
+[498, 712]
+VALID STRING
+{'start': 2921, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(521,682)
+[521, 682]
+VALID STRING
+{'start': 2964, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(697,179)
+[697, 179]
+VALID STRING
+{'start': 2979, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(412,215)
+[412, 215]
+VALID STRING
+{'start': 3002, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(85,476),
+[85, 476]
+VALID STRING
+{'start': 3025, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(423,624)
+[423, 624]
+VALID STRING
+{'start': 3065, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(457,671)
+[457, 671]
+VALID STRING
+{'start': 3134, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(189,417)
+[189, 417]
+VALID STRING
+{'start': 3158, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(526,457)
+[526, 457]
+VALID STRING
+{'start': 3177, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(817,569)
+[817, 569]
+VALID STRING
+{'start': 3202, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(909,493)
+[909, 493]
+VALID STRING
+{'start': 3215, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(484,901)
+[484, 901]
+VALID STRING
+{'start': 3246, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(968,342)
+[968, 342]
+VALID STRING
+{'start': 3261, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(982,164)
+[982, 164]
+VALID STRING
+{'start': 3292, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(364,498)
+[364, 498]
+VALID STRING
+{'start': 3304, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(595,443)
+[595, 443]
+VALID STRING
+{'start': 3329, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(33,531)w
+[33, 531]
+VALID STRING
+{'start': 3372, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(367,411)
+[367, 411]
+VALID STRING
+{'start': 3404, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(345,845)
+[345, 845]
+VALID STRING
+{'start': 3492, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(851,364)
+[851, 364]
+VALID STRING
+{'start': 3504, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(494,714)
+[494, 714]
+VALID STRING
+{'start': 5, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(268,805)
+[268, 805]
+VALID STRING
+{'start': 20, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(373,10)!
+[373, 10]
+VALID STRING
+{'start': 44, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(628,215)
+[628, 215]
+VALID STRING
+{'start': 82, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(355,828)
+[355, 828]
+VALID STRING
+{'start': 95, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(939,916)
+[939, 916]
+VALID STRING
+{'start': 123, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(925,115)
+[925, 115]
+VALID STRING
+{'start': 136, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(161,40) 
+[161, 40]
+VALID STRING
+{'start': 150, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(234,412)
+[234, 412]
+VALID STRING
+{'start': 165, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(414,812)
+[414, 812]
+VALID STRING
+{'start': 185, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(326,103)
+[326, 103]
+VALID STRING
+{'start': 207, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(810,213)
+[810, 213]
+VALID STRING
+{'start': 811, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(682,68)s
+[682, 68]
+VALID STRING
+{'start': 868, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(641,891)
+[641, 891]
+VALID STRING
+{'start': 882, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(604,200)
+[604, 200]
+VALID STRING
+{'start': 903, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(32,446)#
+[32, 446]
+VALID STRING
+{'start': 923, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(367,881)
+[367, 881]
+VALID STRING
+{'start': 961, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(484,441)
+[484, 441]
+VALID STRING
+{'start': 985, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(232,705)
+[232, 705]
+VALID STRING
+{'start': 1005, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(624,35)m
+[624, 35]
+VALID STRING
+{'start': 1016, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(770,961)
+[770, 961]
+VALID STRING
+{'start': 1040, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(460,933)
+[460, 933]
+VALID STRING
+{'start': 1062, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(913,510)
+[913, 510]
+VALID STRING
+{'start': 1093, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(336,262)
+[336, 262]
+VALID STRING
+{'start': 1134, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(324,598)
+[324, 598]
+VALID STRING
+{'start': 1146, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(520,239)
+[520, 239]
+VALID STRING
+{'start': 1179, 'length_int_1': 1, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(9,679)  
+[9, 679]
+VALID STRING
+{'start': 1198, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(132,603)
+[132, 603]
+VALID STRING
+{'start': 1217, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(918,579)
+[918, 579]
+VALID STRING
+{'start': 1236, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(379,960)
+[379, 960]
+VALID STRING
+{'start': 1277, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(225,34)w
+[225, 34]
+VALID STRING
+{'start': 1306, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(795,611)
+[795, 611]
+VALID STRING
+{'start': 1319, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(985,849)
+[985, 849]
+VALID STRING
+{'start': 1332, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(212,96)<
+[212, 96]
+VALID STRING
+{'start': 1352, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(692,369)
+[692, 369]
+VALID STRING
+{'start': 1365, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(525,547)
+[525, 547]
+VALID STRING
+{'start': 1391, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(715,343)
+[715, 343]
+VALID STRING
+{'start': 1418, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(303,170)
+[303, 170]
+VALID STRING
+{'start': 1450, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(752,768)
+[752, 768]
+VALID STRING
+{'start': 1468, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(696,11) 
+[696, 11]
+VALID STRING
+{'start': 1487, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(148,335)
+[148, 335]
+VALID STRING
+{'start': 1505, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(485,796)
+[485, 796]
+VALID STRING
+{'start': 1540, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(456,261)
+[456, 261]
+VALID STRING
+{'start': 1554, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(43,918)~
+[43, 918]
+VALID STRING
+{'start': 1578, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(960,664)
+[960, 664]
+VALID STRING
+{'start': 1616, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(508,451)
+[508, 451]
+VALID STRING
+{'start': 1646, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(176,657)
+[176, 657]
+VALID STRING
+{'start': 1682, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(247,928)
+[247, 928]
+VALID STRING
+{'start': 1707, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(844,455)
+[844, 455]
+VALID STRING
+{'start': 1737, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(898,677)
+[898, 677]
+VALID STRING
+{'start': 1756, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(766,841)
+[766, 841]
+VALID STRING
+{'start': 1768, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(990,880)
+[990, 880]
+VALID STRING
+{'start': 1794, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(487,623)
+[487, 623]
+VALID STRING
+{'start': 1818, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(163,74)s
+[163, 74]
+VALID STRING
+{'start': 1886, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(328,574)
+[328, 574]
+VALID STRING
+{'start': 1902, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(767,737)
+[767, 737]
+VALID STRING
+{'start': 1914, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(996,115)
+[996, 115]
+VALID STRING
+{'start': 1940, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(977,738)
+[977, 738]
+VALID STRING
+{'start': 1966, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(868,591)
+[868, 591]
+VALID STRING
+{'start': 1985, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(347,943)
+[347, 943]
+VALID STRING
+{'start': 2013, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(327,720)
+[327, 720]
+VALID STRING
+{'start': 2038, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(71,877)-
+[71, 877]
+VALID STRING
+{'start': 2064, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(741,845)
+[741, 845]
+VALID STRING
+{'start': 2087, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(686,640)
+[686, 640]
+VALID STRING
+{'start': 2116, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 1, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(352,2)&w
+[352, 2]
+VALID STRING
+{'start': 2138, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(295,145)
+[295, 145]
+VALID STRING
+{'start': 2163, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(777,684)
+[777, 684]
+VALID STRING
+{'start': 2695, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(305,773)
+[305, 773]
+VALID STRING
+{'start': 2708, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(216,395)
+[216, 395]
+VALID STRING
+{'start': 2722, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(291,15)*
+[291, 15]
+VALID STRING
+{'start': 2743, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(56,367))
+[56, 367]
+VALID STRING
+{'start': 2758, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(233,290)
+[233, 290]
+VALID STRING
+{'start': 2800, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(306,488)
+[306, 488]
+VALID STRING
+{'start': 2823, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(627,462)
+[627, 462]
+VALID STRING
+{'start': 2847, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(565,994)
+[565, 994]
+VALID STRING
+{'start': 2861, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(626,380)
+[626, 380]
+VALID STRING
+{'start': 2881, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(590,221)
+[590, 221]
+VALID STRING
+{'start': 2893, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(684,793)
+[684, 793]
+VALID STRING
+{'start': 2924, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(448,580)
+[448, 580]
+VALID STRING
+{'start': 2966, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(971,484)
+[971, 484]
+VALID STRING
+{'start': 2979, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(417,679)
+[417, 679]
+VALID STRING
+{'start': 2991, 'length_int_1': 2, 'comma_present': True, 'length_int_2': 2, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(33,70)^w
+[33, 70]
+VALID STRING
+{'start': 3008, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(816,623)
+[816, 623]
+VALID STRING
+{'start': 3022, 'length_int_1': 3, 'comma_present': True, 'length_int_2': 3, 'closing_bracket': True} True
+check_ints: True, check_strings: True, valid_string: True
+mul(735,657)
+[735, 657]
+TOTAL
+114486385
